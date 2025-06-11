@@ -40,5 +40,5 @@ pip install -r requirements.txt
 
 姓名：付煜超
 课程：人工智能导论
-指导教师：沈莹老师
+指导教师：汪昱老师
 
