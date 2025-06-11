@@ -1,6 +1,6 @@
 # Tongji AI Final Project - 大语言模型部署与对比分析
 
-本项目为同济大学《人工智能导论》课程期末作业，目标是部署并对比两个中文大语言模型——[ChatGLM3-6B](https://www.modelscope.cn/ZhipuAI/chatglm3-6b.git) 与 [Qwen-7B-Chat](https://www.modelscope.cn/qwen/Qwen-7B-Chat.git)，通过多个中文语义与逻辑测试题目，分析它们在语言理解与生成任务上的表现差异。
+本项目为同济大学《人工智能导论》课程期末作业，目标是部署并对比两个中文大语言模型——[ChatGLM3-6B](https://www.modelscope.cn/ZhipuAI/chatglm3-6b.git) 与 [Qwen-7B-Chat](https://www.modelscope.cn/qwen/Qwen-7B-Chat.git)，通过多个中文语义与逻辑测试题目，分析它们在语言理解与生成任务上的表现差异。部署与结果存放于文件夹中。
 
 ---
 
